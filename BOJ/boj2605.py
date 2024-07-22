@@ -1,3 +1,6 @@
+
+# 줄 세우기
+
 T = int(input())
 lst = list(map(int, input().split()))
 new_lst = []
