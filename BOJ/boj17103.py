@@ -1,3 +1,6 @@
+
+# 골드바흐 파티션
+
 import math
 
 array = [False, False] + [True]*(999999)
