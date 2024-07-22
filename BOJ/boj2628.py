@@ -1,3 +1,6 @@
+
+# 종이자르기
+
 width, height = map(int, input().split())
 
 cut_number = int(input())
