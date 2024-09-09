@@ -2,7 +2,7 @@
 
 SSAFY 12기, 서울2반, 알고리즘 스터디
 
-|스터디 날짜|문제|내 풀이|
+|스터디 날짜(마감일)|문제|내 풀이|
 |:---:|:---|:---|
 |2024-07-19|[boj17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)|[boj17103](https://github.com/SSAFY-12th-Seoul2/SoohyunLee/blob/main/BOJ/boj17103-%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%ED%8C%8C%ED%8B%B0%EC%85%98.py)|
 |2024-07-23|[boj2605 줄 세우기](https://www.acmicpc.net/problem/2605)<br>[boj2628 종이자르기](https://www.acmicpc.net/problem/2628)<br>[boj10163 색종이](https://www.acmicpc.net/problem/10163)|[boj2605](https://github.com/SSAFY-12th-Seoul2/SoohyunLee/blob/main/BOJ/boj2605-%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py)<br>[boj2628](https://github.com/SSAFY-12th-Seoul2/SoohyunLee/blob/main/BOJ/boj2628-%EC%A2%85%EC%9D%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.py)<br>boj10163 23점|
