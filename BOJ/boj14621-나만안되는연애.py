@@ -36,7 +36,7 @@ def kruskal(n, edges):
             cnt += 1
             union(parent, rank, u, v)
             mst_weight += weight
-            if cnt == n - 1:  # n-1개의 엣지를 가진 최소 신장 트리를 완성했을 때
+            if cnt == n - 1:  # n-1개 간선 생성 => 끝
                 return mst_weight
 
     return -1
